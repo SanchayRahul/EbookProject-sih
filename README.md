@@ -1,4 +1,4 @@
-# SanchayRahul-Application-for-Assessment-of-Quality-of-Textbook-App
+Application-for-Assessment-of-Quality-of-Textbook-App
 Problem Statement: SIH1340
 
 PS Title: Application for Assessment of Quality of Textbook/ Reference Books/ E- Book
